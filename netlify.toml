@@ -23,8 +23,10 @@
 
 # Configure Netlify Functions.  The directory is set at the top of the build
 # block and here we schedule our refreshEarnings function to run once per day.
+  in
 [functions]
   directory = "netlify/functions"
+    included_files = ["src/data/**"]
 
 [functions.refreshEarnings]
   schedule = "@daily"
