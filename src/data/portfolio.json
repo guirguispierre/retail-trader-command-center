@@ -1,0 +1,6 @@
+[
+  { "type": "buy", "symbol": "AAPL", "quantity": 10, "price": 150.00, "date": "2025-07-01" },
+  { "type": "buy", "symbol": "MSFT", "quantity": 5, "price": 290.00, "date": "2025-07-02" },
+  { "type": "sell", "symbol": "AAPL", "quantity": 2, "price": 160.00, "date": "2025-07-10" },
+  { "type": "premium", "symbol": "SPY", "quantity": 1, "price": 5.00, "date": "2025-07-15" }
+]
