@@ -1,4 +1,6 @@
 [build]
+  # Build the frontend and output to the dist directory.  Netlify
+  # automatically installs dependencies using npm, so no need to run pnpm.
   command = "npm run build"
   publish = "dist"
   functions = "netlify/functions"
@@ -21,6 +23,10 @@
   POLYGON_API_KEY = ""
   FMP_API_KEY = ""
 
-[[functions]]
-  name = "refreshEarnings"
+# Configure Netlify Functions.  The directory is set at the top of the build
+# block and here we schedule our refreshEarnings function to run once per day.
+[functions]
+  directory = "netlify/functions"
+
+[functions.refreshEarnings]
   schedule = "@daily"
