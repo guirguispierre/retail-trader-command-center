@@ -1,0 +1,15 @@
+{
+  "symbol": "SPY",
+  "underlyingPrice": 450,
+  "options": [
+    { "strike": 440, "price": 15 },
+    { "strike": 445, "price": 13 },
+    { "strike": 450, "price": 10 },
+    { "strike": 455, "price": 7 },
+    { "strike": 460, "price": 5 },
+    { "strike": 470, "price": 3 },
+    { "strike": 480, "price": 2 },
+    { "strike": 495, "price": 1.5 },
+    { "strike": 500, "price": 1 }
+  ]
+}
