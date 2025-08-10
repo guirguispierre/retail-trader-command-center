@@ -1,0 +1,154 @@
+[
+  {
+    "symbol": "AAPL",
+    "company": "Apple Inc.",
+    "date": "2025-08-11",
+    "eps": 1.45,
+    "epsEstimate": 1.40,
+    "iv": 0.32,
+    "expectedMove": 3.8,
+    "history": [
+      { "quarter": "Q3'23", "eps": 1.28, "estimate": 1.25 },
+      { "quarter": "Q4'23", "eps": 1.40, "estimate": 1.36 },
+      { "quarter": "Q1'24", "eps": 1.30, "estimate": 1.29 },
+      { "quarter": "Q2'24", "eps": 1.34, "estimate": 1.31 },
+      { "quarter": "Q3'24", "eps": 1.36, "estimate": 1.33 },
+      { "quarter": "Q4'24", "eps": 1.42, "estimate": 1.38 },
+      { "quarter": "Q1'25", "eps": 1.37, "estimate": 1.35 },
+      { "quarter": "Q2'25", "eps": 1.39, "estimate": 1.37 }
+    ]
+  },
+  {
+    "symbol": "MSFT",
+    "company": "Microsoft Corporation",
+    "date": "2025-08-12",
+    "eps": 2.23,
+    "epsEstimate": 2.18,
+    "iv": 0.28,
+    "expectedMove": 6.5,
+    "history": [
+      { "quarter": "Q3'23", "eps": 1.99, "estimate": 1.92 },
+      { "quarter": "Q4'23", "eps": 2.40, "estimate": 2.31 },
+      { "quarter": "Q1'24", "eps": 2.15, "estimate": 2.12 },
+      { "quarter": "Q2'24", "eps": 2.25, "estimate": 2.20 },
+      { "quarter": "Q3'24", "eps": 2.27, "estimate": 2.22 },
+      { "quarter": "Q4'24", "eps": 2.34, "estimate": 2.30 },
+      { "quarter": "Q1'25", "eps": 2.19, "estimate": 2.16 },
+      { "quarter": "Q2'25", "eps": 2.24, "estimate": 2.20 }
+    ]
+  },
+  {
+    "symbol": "GOOGL",
+    "company": "Alphabet Inc.",
+    "date": "2025-08-13",
+    "eps": 1.78,
+    "epsEstimate": 1.71,
+    "iv": 0.31,
+    "expectedMove": 4.2,
+    "history": [
+      { "quarter": "Q3'23", "eps": 1.53, "estimate": 1.50 },
+      { "quarter": "Q4'23", "eps": 1.85, "estimate": 1.80 },
+      { "quarter": "Q1'24", "eps": 1.60, "estimate": 1.58 },
+      { "quarter": "Q2'24", "eps": 1.65, "estimate": 1.61 },
+      { "quarter": "Q3'24", "eps": 1.68, "estimate": 1.64 },
+      { "quarter": "Q4'24", "eps": 1.75, "estimate": 1.70 },
+      { "quarter": "Q1'25", "eps": 1.63, "estimate": 1.60 },
+      { "quarter": "Q2'25", "eps": 1.70, "estimate": 1.66 }
+    ]
+  },
+  {
+    "symbol": "AMZN",
+    "company": "Amazon.com, Inc.",
+    "date": "2025-08-14",
+    "eps": 0.75,
+    "epsEstimate": 0.70,
+    "iv": 0.44,
+    "expectedMove": 8.1,
+    "history": [
+      { "quarter": "Q3'23", "eps": 0.60, "estimate": 0.57 },
+      { "quarter": "Q4'23", "eps": 0.81, "estimate": 0.78 },
+      { "quarter": "Q1'24", "eps": 0.65, "estimate": 0.63 },
+      { "quarter": "Q2'24", "eps": 0.68, "estimate": 0.66 },
+      { "quarter": "Q3'24", "eps": 0.69, "estimate": 0.67 },
+      { "quarter": "Q4'24", "eps": 0.74, "estimate": 0.71 },
+      { "quarter": "Q1'25", "eps": 0.66, "estimate": 0.64 },
+      { "quarter": "Q2'25", "eps": 0.71, "estimate": 0.69 }
+    ]
+  },
+  {
+    "symbol": "TSLA",
+    "company": "Tesla, Inc.",
+    "date": "2025-08-15",
+    "eps": 1.05,
+    "epsEstimate": 1.00,
+    "iv": 0.48,
+    "expectedMove": 10.2,
+    "history": [
+      { "quarter": "Q3'23", "eps": 0.95, "estimate": 0.90 },
+      { "quarter": "Q4'23", "eps": 1.12, "estimate": 1.08 },
+      { "quarter": "Q1'24", "eps": 0.96, "estimate": 0.92 },
+      { "quarter": "Q2'24", "eps": 1.00, "estimate": 0.96 },
+      { "quarter": "Q3'24", "eps": 1.02, "estimate": 0.98 },
+      { "quarter": "Q4'24", "eps": 1.08, "estimate": 1.04 },
+      { "quarter": "Q1'25", "eps": 0.98, "estimate": 0.94 },
+      { "quarter": "Q2'25", "eps": 1.02, "estimate": 0.97 }
+    ]
+  },
+  {
+    "symbol": "NVDA",
+    "company": "NVIDIA Corporation",
+    "date": "2025-08-15",
+    "eps": 3.12,
+    "epsEstimate": 3.05,
+    "iv": 0.45,
+    "expectedMove": 12.4,
+    "history": [
+      { "quarter": "Q3'23", "eps": 2.50, "estimate": 2.45 },
+      { "quarter": "Q4'23", "eps": 3.00, "estimate": 2.90 },
+      { "quarter": "Q1'24", "eps": 2.65, "estimate": 2.55 },
+      { "quarter": "Q2'24", "eps": 2.80, "estimate": 2.70 },
+      { "quarter": "Q3'24", "eps": 2.85, "estimate": 2.75 },
+      { "quarter": "Q4'24", "eps": 3.05, "estimate": 2.95 },
+      { "quarter": "Q1'25", "eps": 2.70, "estimate": 2.60 },
+      { "quarter": "Q2'25", "eps": 2.85, "estimate": 2.75 }
+    ]
+  },
+  {
+    "symbol": "NFLX",
+    "company": "Netflix, Inc.",
+    "date": "2025-08-16",
+    "eps": 3.15,
+    "epsEstimate": 3.10,
+    "iv": 0.37,
+    "expectedMove": 9.0,
+    "history": [
+      { "quarter": "Q3'23", "eps": 2.88, "estimate": 2.80 },
+      { "quarter": "Q4'23", "eps": 3.20, "estimate": 3.10 },
+      { "quarter": "Q1'24", "eps": 2.95, "estimate": 2.85 },
+      { "quarter": "Q2'24", "eps": 3.05, "estimate": 2.95 },
+      { "quarter": "Q3'24", "eps": 3.08, "estimate": 2.98 },
+      { "quarter": "Q4'24", "eps": 3.18, "estimate": 3.05 },
+      { "quarter": "Q1'25", "eps": 3.00, "estimate": 2.90 },
+      { "quarter": "Q2'25", "eps": 3.10, "estimate": 3.00 }
+    ]
+  },
+  {
+    "symbol": "META",
+    "company": "Meta Platforms, Inc.",
+    "date": "2025-08-16",
+    "eps": 3.40,
+    "epsEstimate": 3.32,
+    "iv": 0.42,
+    "expectedMove": 7.5,
+    "history": [
+      { "quarter": "Q3'23", "eps": 2.80, "estimate": 2.75 },
+      { "quarter": "Q4'23", "eps": 3.10, "estimate": 3.05 },
+      { "quarter": "Q1'24", "eps": 2.95, "estimate": 2.90 },
+      { "quarter": "Q2'24", "eps": 3.05, "estimate": 3.00 },
+      { "quarter": "Q3'24", "eps": 3.08, "estimate": 3.03 },
+      { "quarter": "Q4'24", "eps": 3.20, "estimate": 3.15 },
+      { "quarter": "Q1'25", "eps": 2.98, "estimate": 2.93 },
+      { "quarter": "Q2'25", "eps": 3.06, "estimate": 3.00 }
+    ]
+  }
+]
