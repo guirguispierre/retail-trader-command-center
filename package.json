@@ -1,0 +1,12 @@
+{
+  "name": "retail-trader-command-center",
+  "version": "0.1.0",
+  "description": "Retail Trader's Command Center – Options strategy helper, earnings dashboard and portfolio tracker.",
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf dist && mkdir -p dist && cp -r src/* dist/",
+    "typecheck": "tsc --noEmit",
+    "lint": "echo 'No lint script configured.'",
+    "test": "node --test"
+  }
+}
